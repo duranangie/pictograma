@@ -1,0 +1,75 @@
+[
+  {
+    "imagen": "img/bano.jpg",
+    "frase": "Quiero ir al baño"
+  },
+  {
+ "imagen": "img/comida.jpeg",
+    "frase": "Quiero comida"
+  },
+  {
+     "imagen": "img/agua.jpg",
+    "frase": "Quiero agua"
+  },
+    {
+     "imagen": "img/dolor.webp",
+    "frase": "Tengo dolor"
+  },
+    {
+     "imagen": "img/frio.jpg",
+    "frase": "Tengo frío"
+  },
+    {
+     "imagen": "img/calor.jpeg",
+    "frase": "Tengo calor"
+  },
+    {
+     "imagen": "img/feliz.jpg",
+    "frase": "Estoy feliz"
+  },
+    {
+     "imagen": "img/trite.jpg",
+    "frase": "Estoy triste"
+  },
+    {
+     "imagen": "img/no.png",
+    "frase": "No quiero"
+  },
+    {
+     "imagen": "img/si.jpeg",
+    "frase": "Si quiero"
+  },
+    {
+     "imagen": "img/televisor.webp",
+    "frase": "Quiero ver televisión"
+  },
+    {
+     "imagen": "img/mama.avif",
+    "frase": "Mamá"
+  },
+    {
+     "imagen": "img/papa.jpg",
+    "frase": "Papá"
+  },
+    {
+     "imagen": "img/hermana.webp",
+    "frase": "Lorena"
+  },
+    {
+     "imagen": "img/cepillo.jpeg",
+    "frase": "Quiero cepillarme"
+  },
+    {
+     "imagen": "img/celular.jpeg",
+    "frase": "Quiero el celular"
+  },
+    {
+     "imagen": "img/casa.avif",
+    "frase": "Quiero ir a casa"
+  },
+    {
+     "imagen": "img/ducha.avif",
+    "frase": "Quiero ducharme"
+  }
+  
+]

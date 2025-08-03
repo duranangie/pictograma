@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
             card.addEventListener('click',() =>{
                 const speech = new SpeechSynthesisUtterance(picto.frase);
-                speech.lang = 'es-Es';
+                speech.lang = 'es-ES';
                 window.speechSynthesis.speak(speech);
             });
 
